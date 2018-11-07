@@ -1,4 +1,5 @@
 module ApplicationHelper
+	#its a helper which will be available in the views
 		def full_title(page_title="")
 		base_title="Ruby on Rails Tutorial Sampe App"
 	
